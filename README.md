@@ -10,7 +10,7 @@ TODO: add link to report file, in root directory
 
 ## Description
 
-This repository contains files associated with a report submitted for the assessed coursework of *Machine Learning and Predictive Analytics - UFCFMJ-15-M* at the University of the West of England, Bristol.  
+This repository contains files associated with a report submitted for the assessed coursework of *Machine Learning and Predictive Analytics - [UFCFMJ-15-M](https://www.cems.uwe.ac.uk/~h-ihshaish/ml/assignment/)* at the [University of the West of England, Bristol](https://www.uwe.ac.uk/).  
 
 ## Requirements / Running
 
