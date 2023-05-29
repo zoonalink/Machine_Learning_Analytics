@@ -1,0 +1,6 @@
+|             | Outcome     |   Count |   Percentage |
+|:------------|:------------|--------:|-------------:|
+| Pass        | Pass        |   11829 |     37.6276  |
+| Withdrawn   | Withdrawn   |    9881 |     31.4311  |
+| Fail        | Fail        |    6902 |     21.955   |
+| Distinction | Distinction |    2825 |      8.98623 |
