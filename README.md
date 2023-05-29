@@ -54,17 +54,17 @@ The following packages are required:
   * notebooks are named in the order they are meant to be read
   * these notebooks are more complete and more in line with the report content
 
-[V2/00_data_description](/code/V2/00_data_description.ipynb) contains a description of the data used in the report
-[V2/00_introduction](/code/V2/00_introduction.ipynb) contains the introduction to the report
-[V2/01_data.ipynb](/code/V2/01_data.ipynb) contains initial data exploration
-[V2/02_EDA.ipynb](/code/V2/02_EDA.ipynb) contains exploratory data analysis
-[V2/03_Features.ipynb](/code/V2/03_Features.ipynb) contains feature engineering code and narrative
-[V2/04_01_model_prep.ipynb](/code/V2/04_01_model_prep.ipynb) contains code to prepare data for modelling
-[V2/04_02_model_reduce.ipynb](/code/V2/04_02_model_reduce.ipynb) contains code to reduce the number of features and feature space (PCA)
-[v2/04_03_model_fit.ipynb](/code/V2/04_03_model_fit.ipynb) contains code to fit models
-[V2/04_04_model_tune.ipynb](/code/V2/04_04_model_tune.ipynb) contains code to tune models
-[V2/04_05_model_test.ipynb](/code/V2/04_05_model_test.ipynb) contains code to prepare test scenario
-[V2/04_06_model_test_model.ipynb](/code/V2/04_06_model_test_model.ipynb) contains code to test model on 50/100/150 test sets
+* [V2/00_data_description](/code/V2/00_data_description.ipynb) contains a description of the data used in the report
+* [V2/00_introduction](/code/V2/00_introduction.ipynb) contains the introduction to the report
+* [V2/01_data.ipynb](/code/V2/01_data.ipynb) contains initial data exploration
+* [V2/02_EDA.ipynb](/code/V2/02_EDA.ipynb) contains exploratory data analysis
+* [V2/03_Features.ipynb](/code/V2/03_Features.ipynb) contains feature engineering code and narrative
+* [V2/04_01_model_prep.ipynb](/code/V2/04_01_model_prep.ipynb) contains code to prepare data for modelling
+* [V2/04_02_model_reduce.ipynb](/code/V2/04_02_model_reduce.ipynb) contains code to reduce the number of features and feature space (PCA)
+* [v2/04_03_model_fit.ipynb](/code/V2/04_03_model_fit.ipynb) contains code to fit models
+* [V2/04_04_model_tune.ipynb](/code/V2/04_04_model_tune.ipynb) contains code to tune models
+* [V2/04_05_model_test.ipynb](/code/V2/04_05_model_test.ipynb) contains code to prepare test scenario
+* [V2/04_06_model_test_model.ipynb](/code/V2/04_06_model_test_model.ipynb) contains code to test model on 50/100/150 test sets
 
 
 ## Assignment Specification / Brief
