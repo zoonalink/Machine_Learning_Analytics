@@ -9,8 +9,11 @@ This repository contains files associated with a report submitted as assessed co
 ## Abstract
 
 Higher Education Institutions (HEI) have a vested interest in ensuring that students are successful in their studies.  The motivation is multi-faceted – by ensuring positive student experience and good student outcomes, HEIs reap the benefits of an enhanced reputation, improved metrics affecting league table placement and more stable student numbers.  HEIs are subsequently able to attract and retain more students and further improve their educational services.
+
 Learner Analytics is a field of research which can support students and HEIs by improving student experience, enriching learning and teaching, identifying at-risk students, and bettering retention and progression.
-This exploratory report investigates several predictive learning algorithms trained on student engagement data to predict multiclass and binary outcomes.  It is proof-of-concept in nature, exploring the viability and generalisability of learning algorithms on engagement behaviour during a course.  It compares several models and briefly discusses the results in the context of the HEI.
+This exploratory report investigates several predictive learning algorithms trained on student engagement data to predict multiclass and binary outcomes.  
+
+It is proof-of-concept in nature, exploring the viability and generalisability of learning algorithms on engagement behaviour during a course.  It compares several models and briefly discusses the results in the context of the HEI.
 
 The [Open University Learning Analytics dataset](https://analyse.kmi.open.ac.uk/open_dataset) is used to train, validate and test classification learner models.
 
